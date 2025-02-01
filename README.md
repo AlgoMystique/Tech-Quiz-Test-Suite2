@@ -32,7 +32,7 @@ MONGODB_URI='your mongodb uri'
 
 -Clone this repository:
 ```
-git clone
+git clone https://github.com/AlgoMystique/Tech-Quiz-Test-Suite2.git
 ```
 
 -Install the dependencies:
