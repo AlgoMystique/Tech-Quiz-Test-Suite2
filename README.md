@@ -23,6 +23,7 @@ This project is an enhancement of a fully functioning Tech Quiz application buil
 ```
 
 ## Server Configuration:
+
 Create .env and add the necessary environment variables.
 ```
 MONGODB_URI='your mongodb uri'
@@ -58,7 +59,7 @@ npm run cy:open
 
 [![Cypress testing](https://img.youtube.com/vi/eYBnTnn7fvA/0.jpg)](https://www.youtube.com/watch?v=eYBnTnn7fvA)
 
-## Contributing
+## Contributing:
 
 Contributions are welcome! 🚀  
 If you'd like to improve this project, please follow these steps:
@@ -71,6 +72,6 @@ If you'd like to improve this project, please follow these steps:
 
 Make sure your code follows the existing style guidelines and passes all tests. 
 
-## License
+## License:
 
 This project is licensed under the [MIT License](LICENSE).
