@@ -55,3 +55,19 @@ npm run cy:open
 
 [![Cypress testing](https://img.youtube.com/vi/eYBnTnn7fvA/0.jpg)](https://www.youtube.com/watch?v=eYBnTnn7fvA)
 
+## Contributing
+
+Contributions are welcome! 🚀  
+If you'd like to improve this project, please follow these steps:
+
+1. **Fork** the repository.  
+2. **Create a branch** (`git checkout -b feature-branch`).  
+3. **Commit your changes** (`git commit -m 'Add new feature'`).  
+4. **Push to the branch** (`git push origin feature-branch`).  
+5. **Open a Pull Request** and describe your changes.
+
+Make sure your code follows the existing style guidelines and passes all tests. 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
