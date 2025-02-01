@@ -28,9 +28,12 @@ Create .env and add the necessary environment variables.
 MONGODB_URI='your mongodb uri'
 ```
 
-## Getting Started
+## Getting Started:
 
 -Clone this repository:
+```
+git clone
+```
 
 -Install the dependencies:
 ```
