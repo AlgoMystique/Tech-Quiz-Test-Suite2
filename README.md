@@ -50,7 +50,8 @@ npm run test:e2e
 npm run cy:open
 ```
 
+
 ## View The Walkthrough Video Here:
 
-[![Cypress testing](https://img.youtube.com/vi/GAsObzz0pzo/0.jpg)](https://www.youtube.com/watch?v=GAsObzz0pzo)
+[![Cypress testing](https://img.youtube.com/vi/eYBnTnn7fvA/0.jpg)](https://www.youtube.com/watch?v=eYBnTnn7fvA)
 
