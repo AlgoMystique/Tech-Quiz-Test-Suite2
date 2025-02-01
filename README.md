@@ -1,6 +1,6 @@
 # Tech Quiz Test Suite
 
-This project is an enhancement of a fully functioning Tech Quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to take a quiz with ten random tech-related questions and view their final score. The goal of this project is to integrate Cypress for both component and end-to-end testing.
+This project is an enhancement of a fully functioning Tech Quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). Cypress is integrated for both component and end-to-end testing.
 
 ## Directory Structure:
 ```
