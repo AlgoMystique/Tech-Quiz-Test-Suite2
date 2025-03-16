@@ -1,6 +1,6 @@
-# Tech Quiz Test Suite
+# QuizGuard
 
-This project is an enhancement of a fully functioning Tech Quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). Cypress is integrated for both component and end-to-end testing.
+This project is an enhancement of a fully functioning Tech Quiz application ( QuizGuard)  using the MERN stack (MongoDB, Express.js, React, Node.js). Cypress is integrated for both component and end-to-end testing.
 
 ![Demo](https://static.bc-edx.com/coding/software-dev/19-Testing/assets/19-testing-homework-demo.gif)
 
